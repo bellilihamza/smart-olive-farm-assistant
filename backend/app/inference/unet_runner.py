@@ -73,7 +73,10 @@ class UNetRunner:
     def load(self) -> None:
         weights: Path = settings.UNET_WEIGHTS
         if not weights.exists():
-            logger.warning("U-Net weights not found at %s — MOCK mode.", weights)
+            logger.warning(
+                "U-Net weights '%s' not found in %s — MOCK mode: segmentation is fake.",
+                weights.name, weights.parent,
+            )
             self._ready = False
             return
 
@@ -87,6 +90,11 @@ class UNetRunner:
         except Exception as exc:
             logger.error("Failed to load U-Net: %s", exc)
             self._ready = False
+
+    @property
+    def ready(self) -> bool:
+        """False when the weight file was missing or failed to load (MOCK mode)."""
+        return self._ready
 
     def segment(self, crop: Image.Image) -> tuple[np.ndarray, float]:
         """

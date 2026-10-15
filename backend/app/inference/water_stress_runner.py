@@ -67,7 +67,8 @@ class WaterStressRunner:
         weights: Path = settings.WATER_STRESS_WEIGHTS
         if not weights.exists():
             logger.warning(
-                "Water-stress weights not found at %s — MOCK mode.", weights
+                "Water-stress weights '%s' not found in %s — MOCK mode: predictions are fake.",
+                weights.name, weights.parent,
             )
             self._ready = False
             return
@@ -88,6 +89,11 @@ class WaterStressRunner:
         except Exception as exc:
             logger.error("Failed to load water-stress model: %s", exc)
             self._ready = False
+
+    @property
+    def ready(self) -> bool:
+        """False when the weight file was missing or failed to load (MOCK mode)."""
+        return self._ready
 
     # ── Inference ─────────────────────────────────────────────────────────
 

@@ -36,7 +36,8 @@ class YOLORunner:
         weights: Path = settings.YOLO_WEIGHTS
         if not weights.exists():
             logger.warning(
-                "YOLOv8 weights not found at %s — running in MOCK mode.", weights
+                "YOLOv8 weights '%s' not found in %s — MOCK mode: detections are fake.",
+                weights.name, weights.parent,
             )
             self._ready = False
             return
@@ -49,6 +50,11 @@ class YOLORunner:
         except Exception as exc:
             logger.error("Failed to load YOLOv8: %s", exc)
             self._ready = False
+
+    @property
+    def ready(self) -> bool:
+        """False when the weight file was missing or failed to load (MOCK mode)."""
+        return self._ready
 
     # ── Inference ─────────────────────────────────────────────────────────
 

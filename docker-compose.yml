@@ -27,7 +27,7 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - ./weights:/backend/weights
+      - ./backend/weights:/backend/weights:ro
     restart: unless-stopped
 
   web:

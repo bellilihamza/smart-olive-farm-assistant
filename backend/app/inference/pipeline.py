@@ -13,6 +13,7 @@ from dataclasses import dataclass
 
 from PIL import Image
 
+from app.core.config import settings
 from app.inference.yolo_runner import YOLORunner, Detection
 from app.inference.unet_runner import UNetRunner
 from app.inference.resnet_runner import ResNetRunner
@@ -67,13 +68,35 @@ class InferencePipeline:
 
     async def load_models(self) -> None:
         """Warm-up: load all model weights into memory."""
-        logger.info("Loading AI models …")
+        logger.info("Loading AI models from %s …", settings.YOLO_WEIGHTS.parent)
         self.yolo.load()
         self.unet.load()
         self.resnet.load()
         self.lstm.load()
         self.water_stress.load()                  # load water-stress model
-        logger.info("All models ready.")
+
+        runners = [
+            ("YOLOv8", self.yolo, settings.YOLO_WEIGHTS),
+            ("U-Net", self.unet, settings.UNET_WEIGHTS),
+            ("ResNet-18", self.resnet, settings.RESNET_WEIGHTS),
+            ("LSTM", self.lstm, settings.LSTM_WEIGHTS),
+            ("Water-stress", self.water_stress, settings.WATER_STRESS_WEIGHTS),
+        ]
+        mocked = [(name, path) for name, runner, path in runners if not runner.ready]
+
+        if not mocked:
+            logger.info("All %d models ready.", len(runners))
+            return
+
+        # Never let MOCK mode pass unnoticed — every reply would be a fake prediction.
+        logger.warning(
+            "%d of %d models are in MOCK mode: %s. Responses are NOT real predictions. "
+            "Expected weight files in %s — under Docker this directory comes from the "
+            "./backend/weights bind mount in docker-compose.yml.",
+            len(mocked), len(runners),
+            ", ".join(f"{name} (missing {path.name})" for name, path in mocked),
+            settings.YOLO_WEIGHTS.parent,
+        )
 
     async def run(
         self,

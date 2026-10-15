@@ -75,7 +75,10 @@ class ResNetRunner:
     def load(self) -> None:
         weights: Path = settings.RESNET_WEIGHTS
         if not weights.exists():
-            logger.warning("ResNet-50 weights not found at %s — MOCK mode.", weights)
+            logger.warning(
+                "ResNet-18 weights '%s' not found in %s — MOCK mode: classification is fake.",
+                weights.name, weights.parent,
+            )
             self._ready = False
             return
 
@@ -119,6 +122,11 @@ class ResNetRunner:
         except Exception as exc:
             logger.error("Failed to load ResNet-18: %s", exc)
             self._ready = False
+
+    @property
+    def ready(self) -> bool:
+        """False when the weight file was missing or failed to load (MOCK mode)."""
+        return self._ready
 
     # ── Inference ──────────────────────────────────────────────────────────
 

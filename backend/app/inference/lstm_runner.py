@@ -59,7 +59,10 @@ class LSTMRunner:
     def load(self) -> None:
         weights: Path = settings.LSTM_WEIGHTS
         if not weights.exists():
-            logger.warning("LSTM weights not found at %s — MOCK mode.", weights)
+            logger.warning(
+                "LSTM weights '%s' not found in %s — MOCK mode: risk forecast is fake.",
+                weights.name, weights.parent,
+            )
             self._ready = False
             return
 
@@ -73,6 +76,11 @@ class LSTMRunner:
         except Exception as exc:
             logger.error("Failed to load LSTM: %s", exc)
             self._ready = False
+
+    @property
+    def ready(self) -> bool:
+        """False when the weight file was missing or failed to load (MOCK mode)."""
+        return self._ready
 
     def predict(
         self,

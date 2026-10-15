@@ -154,8 +154,10 @@ Place trained weights in `backend/weights/` using exactly these filenames:
 | `lstm_risk.pth` | LSTM | 7-day risk forecast |
 | `resnet_water_stress.pth` | ResNet | Water-stress grading |
 
+Compose bind-mounts this directory read-only onto `/backend/weights`, which is where `backend/app/core/config.py` looks for the files — so the same folder serves both the local and the Docker run.
+
 > [!NOTE]
-> Weights are gitignored. If a file is missing, the corresponding runner falls back to **MOCK mode**, so the full stack still boots and the UI stays explorable without them.
+> Weights are gitignored. If a file is missing, the corresponding runner falls back to **MOCK mode**, so the full stack still boots and the UI stays explorable without them. Startup then logs a warning naming every mocked model, the missing filename and the directory searched — if you see it, the API is returning fabricated predictions.
 
 ### 3. Build the FAISS index
 

@@ -2,6 +2,7 @@
 FastAPI application entry point.
 Configures lifespan (model + DB warm-up), CORS, and router registration.
 """
+import logging
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
@@ -20,6 +21,13 @@ from app.api.v1.chat import router as chat_router
 from app.api.v1.dashboard import router as dashboard_router
 from app.api.v1.history import router as history_router
 from app.websocket.events import websocket_router
+
+# Uvicorn only configures its own loggers, so without this the app's warnings
+# (notably "model in MOCK mode") reach stderr unformatted or not at all.
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(levelname)-8s %(name)s — %(message)s",
+)
 
 
 @asynccontextmanager
