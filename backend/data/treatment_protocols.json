@@ -1,0 +1,334 @@
+[
+  {
+    "id": "P01",
+    "disease": "Verticillium Wilt",
+    "disease_ar": "الذبول الفرتيسيليومي",
+    "severity_range": [1, 4],
+    "protocol": "Remove and burn infected branches immediately. Apply Trichoderma-based biocontrol agent to the root zone at 2 kg/ha. Avoid excessive irrigation \u2014 maintain soil moisture below field capacity. For severe cases (Level 3\u20134), inject potassium phosphonate into the trunk at 20 ml per tree. Rotate with non-host crops in adjacent plots.",
+    "protocol_ar": "\u0642\u0635 \u0627\u0644\u0623\u063a\u0635\u0627\u0646 \u0627\u0644\u0645\u0631\u064a\u0636\u0629 \u0648\u062d\u0631\u0642\u0647\u0627 \u0641\u0648\u0631\u0627\u064b. \u0636\u0639 \u0645\u0628\u064a\u062f \u0628\u064a\u0648\u0644\u0648\u062c\u064a \u0623\u0633\u0627\u0633\u0647 \u062a\u0631\u064a\u0643\u0648\u062f\u064a\u0631\u0645\u0627 \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062c\u0630\u0648\u0631 \u0628\u0645\u0639\u062f\u0644 2 \u0643\u063a/\u0647\u0643\u062a\u0627\u0631. \u062a\u062c\u0646\u0628 \u0627\u0644\u0633\u0642\u064a \u0627\u0644\u0632\u0627\u0626\u062f. \u0641\u064a \u0627\u0644\u062d\u0627\u0644\u0627\u062a \u0627\u0644\u062e\u0637\u064a\u0631\u0629\u060c \u062d\u0642\u0646 \u0641\u0648\u0633\u0641\u0648\u0646\u0627\u062a \u0627\u0644\u0628\u0648\u062a\u0627\u0633\u064a\u0648\u0645 \u0641\u064a \u0627\u0644\u062c\u0630\u0639 \u0628\u0645\u0639\u062f\u0644 20 \u0645\u0644 \u0644\u0643\u0644 \u0634\u062c\u0631\u0629.",
+    "preventive_measures": "Plant resistant cultivars (Chemlali is moderately tolerant). Ensure good drainage. Avoid planting after solanaceous crops.",
+    "chemical_agents": [
+      "Potassium phosphonate",
+      "Trichoderma harzianum"
+    ],
+    "application_timing": "October\u2013November (post-harvest) or March (pre-flowering)"
+  },
+  {
+    "id": "P02",
+    "disease": "Verticillium Wilt",
+    "disease_ar": "الذبول الفرتيسيليومي",
+    "severity_range": [1, 2],
+    "protocol": "For mild cases, prune affected limbs with sterilized tools. Apply compost tea foliar spray every 2 weeks. Enhance soil microbial activity with mycorrhizal inoculants. Monitor water stress \u2014 use tensiometers to maintain optimal moisture.",
+    "protocol_ar": "\u0641\u064a \u0627\u0644\u062d\u0627\u0644\u0627\u062a \u0627\u0644\u062e\u0641\u064a\u0641\u0629\u060c \u0642\u0635 \u0627\u0644\u0623\u063a\u0635\u0627\u0646 \u0627\u0644\u0645\u0635\u0627\u0628\u0629 \u0628\u0623\u062f\u0648\u0627\u062a \u0645\u0639\u0642\u0645\u0629. \u0631\u0634 \u0634\u0627\u064a \u0627\u0644\u0633\u0645\u0627\u062f \u0627\u0644\u0639\u0636\u0648\u064a \u0643\u0644 \u0623\u0633\u0628\u0648\u0639\u064a\u0646. \u0639\u0632\u0632 \u0627\u0644\u0646\u0634\u0627\u0637 \u0627\u0644\u0645\u064a\u0643\u0631\u0648\u0628\u064a \u0641\u064a \u0627\u0644\u062a\u0631\u0628\u0629 \u0628\u0644\u0642\u0627\u062d\u0627\u062a \u0627\u0644\u0645\u064a\u0643\u0648\u0631\u064a\u0632\u0627.",
+    "preventive_measures": "Maintain balanced NPK fertilization. Avoid mechanical damage to roots during cultivation.",
+    "chemical_agents": [
+      "Mycorrhizal inoculant",
+      "Compost tea"
+    ],
+    "application_timing": "Year-round monitoring, treatment in spring"
+  },
+  {
+    "id": "P03",
+    "disease": "Olive Knot",
+    "disease_ar": "سل الزيتون",
+    "severity_range": [1, 4],
+    "protocol": "Excise all galls (knots) with a clean cut 10 cm below visible infection. Disinfect tools with 10% bleach between cuts. Apply Bordeaux mixture (copper sulfate + lime) at 1% concentration to wounds. Spray entire canopy with copper hydroxide at 3 g/L before autumn rains.",
+    "protocol_ar": "\u0623\u0632\u0644 \u062c\u0645\u064a\u0639 \u0627\u0644\u0639\u0642\u062f \u0628\u0642\u0637\u0639 \u0646\u0638\u064a\u0641 10 \u0633\u0645 \u062a\u062d\u062a \u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0645\u0635\u0627\u0628\u0629. \u0639\u0642\u0645 \u0627\u0644\u0623\u062f\u0648\u0627\u062a \u0628\u0627\u0644\u0645\u0628\u064a\u0636 10% \u0628\u064a\u0646 \u0643\u0644 \u0642\u0637\u0639\u0629. \u0636\u0639 \u062e\u0644\u064a\u0637 \u0628\u0648\u0631\u062f\u0648 \u0639\u0644\u0649 \u0627\u0644\u062c\u0631\u0648\u062d. \u0631\u0634 \u0627\u0644\u0634\u062c\u0631\u0629 \u0643\u0644\u0647\u0627 \u0628\u0647\u064a\u062f\u0631\u0648\u0643\u0633\u064a\u062f \u0627\u0644\u0646\u062d\u0627\u0633 3 \u063a/\u0644 \u0642\u0628\u0644 \u0623\u0645\u0637\u0627\u0631 \u0627\u0644\u062e\u0631\u064a\u0641.",
+    "preventive_measures": "Avoid pruning during wet weather. Minimize wounds from harvesting. Use certified disease-free nursery stock.",
+    "chemical_agents": [
+      "Bordeaux mixture",
+      "Copper hydroxide"
+    ],
+    "application_timing": "September (pre-rain) and February (post-pruning)"
+  },
+  {
+    "id": "P04",
+    "disease": "Olive Knot",
+    "disease_ar": "سل الزيتون",
+    "severity_range": [3, 4],
+    "protocol": "For heavily infected trees, consider severe rejuvenation pruning. Remove up to 50% of the canopy if necessary. Apply copper-based bactericide monthly during the wet season. Consider biological control with Pseudomonas fluorescens antagonist strains.",
+    "protocol_ar": "\u0644\u0644\u0623\u0634\u062c\u0627\u0631 \u0627\u0644\u0645\u0635\u0627\u0628\u0629 \u0628\u0634\u062f\u0629\u060c \u0641\u0643\u0651\u0631 \u0641\u064a \u062a\u0642\u0644\u064a\u0645 \u062a\u062c\u062f\u064a\u062f\u064a \u0642\u0648\u064a. \u0623\u0632\u0644 \u062d\u062a\u0649 50% \u0645\u0646 \u0627\u0644\u0645\u062c\u0645\u0648\u0639 \u0627\u0644\u062e\u0636\u0631\u064a \u0625\u0630\u0627 \u0644\u0632\u0645 \u0627\u0644\u0623\u0645\u0631. \u0636\u0639 \u0645\u0628\u064a\u062f \u0628\u0643\u062a\u064a\u0631\u064a \u0646\u062d\u0627\u0633\u064a \u0634\u0647\u0631\u064a\u0627\u064b \u062e\u0644\u0627\u0644 \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u0645\u0645\u0637\u0631.",
+    "preventive_measures": "Improve air circulation through proper spacing and pruning.",
+    "chemical_agents": [
+      "Copper oxychloride",
+      "Pseudomonas fluorescens"
+    ],
+    "application_timing": "Wet season (October\u2013March)"
+  },
+  {
+    "id": "P05",
+    "disease": "Peacock Spot",
+    "disease_ar": "عين الطاووس",
+    "severity_range": [1, 4],
+    "protocol": "Apply copper-based fungicide (copper oxychloride 50% WP) at 5 g/L in two treatments: first in autumn before rains, second in late winter. For organic farms, use 1% Bordeaux mixture. Remove fallen infected leaves from the ground to reduce inoculum.",
+    "protocol_ar": "\u0636\u0639 \u0645\u0628\u064a\u062f \u0641\u0637\u0631\u064a \u0646\u062d\u0627\u0633\u064a (\u0623\u0648\u0643\u0633\u064a \u0643\u0644\u0648\u0631\u0648\u0631 \u0627\u0644\u0646\u062d\u0627\u0633 50%) \u0628\u0645\u0639\u062f\u0644 5 \u063a/\u0644 \u0641\u064a \u0645\u0639\u0627\u0645\u0644\u062a\u064a\u0646: \u0627\u0644\u0623\u0648\u0644\u0649 \u0641\u064a \u0627\u0644\u062e\u0631\u064a\u0641 \u0642\u0628\u0644 \u0627\u0644\u0623\u0645\u0637\u0627\u0631\u060c \u0648\u0627\u0644\u062b\u0627\u0646\u064a\u0629 \u0641\u064a \u0622\u062e\u0631 \u0627\u0644\u0634\u062a\u0627\u0621. \u0623\u0632\u0644 \u0627\u0644\u0623\u0648\u0631\u0627\u0642 \u0627\u0644\u0645\u062a\u0633\u0627\u0642\u0637\u0629 \u0627\u0644\u0645\u0635\u0627\u0628\u0629 \u0645\u0646 \u0627\u0644\u0623\u0631\u0636.",
+    "preventive_measures": "Choose tolerant varieties (Chetoui shows moderate resistance). Ensure good canopy ventilation through regular pruning.",
+    "chemical_agents": [
+      "Copper oxychloride",
+      "Bordeaux mixture",
+      "Dodine"
+    ],
+    "application_timing": "October and February"
+  },
+  {
+    "id": "P06",
+    "disease": "Peacock Spot",
+    "disease_ar": "عين الطاووس",
+    "severity_range": [1, 2],
+    "protocol": "For mild infections, a single autumn copper spray may suffice. Monitor leaf spots using the NaOH diagnostic test (5% solution on detached leaves). If fewer than 10% of leaves show spots, biological control with Bacillus subtilis sprays may be used as alternative.",
+    "protocol_ar": "\u0641\u064a \u0627\u0644\u0625\u0635\u0627\u0628\u0627\u062a \u0627\u0644\u062e\u0641\u064a\u0641\u0629\u060c \u0631\u0634\u0629 \u0646\u062d\u0627\u0633\u064a\u0629 \u0648\u0627\u062d\u062f\u0629 \u0641\u064a \u0627\u0644\u062e\u0631\u064a\u0641 \u0642\u062f \u062a\u0643\u0641\u064a. \u0631\u0627\u0642\u0628 \u0627\u0644\u0628\u0642\u0639 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u062e\u062a\u0628\u0627\u0631 \u0647\u064a\u062f\u0631\u0648\u0643\u0633\u064a\u062f \u0627\u0644\u0635\u0648\u062f\u064a\u0648\u0645. \u0625\u0630\u0627 \u0623\u0642\u0644 \u0645\u0646 10% \u0645\u0646 \u0627\u0644\u0623\u0648\u0631\u0627\u0642 \u0645\u0635\u0627\u0628\u0629\u060c \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 Bacillus subtilis.",
+    "preventive_measures": "Regular leaf monitoring starting September. Remove water sprouts that increase humidity.",
+    "chemical_agents": [
+      "Copper hydroxide",
+      "Bacillus subtilis"
+    ],
+    "application_timing": "September monitoring, October treatment"
+  },
+  {
+    "id": "P07",
+    "disease": "Sooty Mold",
+    "disease_ar": "العفن الأسود",
+    "severity_range": [1, 4],
+    "protocol": "Sooty mold is secondary to insect infestations (scale insects, whiteflies). First control the insect vector: apply white mineral oil at 2% during dormancy, or dimethoate (if permitted) at 40 ml/100L during active infestation. Wash soot deposits with pressurized water. Apply potassium soap at 2% to dissolve honeydew residue.",
+    "protocol_ar": "\u0627\u0644\u0639\u0641\u0646 \u0627\u0644\u0623\u0633\u0648\u062f \u062b\u0627\u0646\u0648\u064a \u0644\u0625\u0635\u0627\u0628\u0627\u062a \u0627\u0644\u062d\u0634\u0631\u0627\u062a (\u0627\u0644\u062d\u0634\u0631\u0627\u062a \u0627\u0644\u0642\u0634\u0631\u064a\u0629). \u0623\u0648\u0644\u0627\u064b \u0643\u0627\u0641\u062d \u0627\u0644\u062d\u0634\u0631\u0627\u062a: \u0636\u0639 \u0632\u064a\u062a \u0645\u0639\u062f\u0646\u064a \u0623\u0628\u064a\u0636 2% \u0623\u062b\u0646\u0627\u0621 \u0627\u0644\u0633\u0643\u0648\u0646. \u0627\u063a\u0633\u0644 \u0627\u0644\u0631\u0648\u0627\u0633\u0628 \u0627\u0644\u0633\u0648\u062f\u0627\u0621 \u0628\u0627\u0644\u0645\u0627\u0621 \u0627\u0644\u0645\u0636\u063a\u0648\u0637. \u0636\u0639 \u0635\u0627\u0628\u0648\u0646 \u0627\u0644\u0628\u0648\u062a\u0627\u0633\u064a\u0648\u0645 2% \u0644\u0625\u0630\u0627\u0628\u0629 \u0627\u0644\u0646\u062f\u0648\u0629 \u0627\u0644\u0639\u0633\u0644\u064a\u0629.",
+    "preventive_measures": "Monitor for scale insects in spring. Maintain ant control (ants protect scale insects). Promote natural enemies (ladybugs, lacewings).",
+    "chemical_agents": [
+      "White mineral oil",
+      "Potassium soap",
+      "Dimethoate"
+    ],
+    "application_timing": "Dormancy (December\u2013January) for oil; Spring for insecticide"
+  },
+  {
+    "id": "P08",
+    "disease": "Sooty Mold",
+    "disease_ar": "العفن الأسود",
+    "severity_range": [3, 4],
+    "protocol": "Severe sooty mold covering >50% of canopy requires aggressive intervention. Apply systemic insecticide (spirotetramat at 0.5 ml/L) to eliminate scale populations. Follow with two high-pressure water washes, 2 weeks apart. Apply seaweed extract foliar feed to support recovery.",
+    "protocol_ar": "\u0627\u0644\u0639\u0641\u0646 \u0627\u0644\u0623\u0633\u0648\u062f \u0627\u0644\u0634\u062f\u064a\u062f \u0627\u0644\u0630\u064a \u064a\u063a\u0637\u064a \u0623\u0643\u062b\u0631 \u0645\u0646 50% \u064a\u062d\u062a\u0627\u062c \u062a\u062f\u062e\u0644 \u0642\u0648\u064a. \u0636\u0639 \u0645\u0628\u064a\u062f \u062d\u0634\u0631\u064a \u062c\u0647\u0627\u0632\u064a (\u0633\u0628\u064a\u0631\u0648\u062a\u064a\u062a\u0631\u0627\u0645\u0627\u0637 0.5 \u0645\u0644/\u0644). \u0627\u062a\u0628\u0639\u0647 \u0628\u063a\u0633\u0644\u062a\u064a\u0646 \u0628\u0627\u0644\u0645\u0627\u0621 \u0627\u0644\u0645\u0636\u063a\u0648\u0637. \u0636\u0639 \u0645\u0633\u062a\u062e\u0644\u0635 \u0627\u0644\u0623\u0639\u0634\u0627\u0628 \u0627\u0644\u0628\u062d\u0631\u064a\u0629 \u0644\u062f\u0639\u0645 \u0627\u0644\u062a\u0639\u0627\u0641\u064a.",
+    "preventive_measures": "Annual dormant oil application. Prune to open canopy center.",
+    "chemical_agents": [
+      "Spirotetramat",
+      "Seaweed extract"
+    ],
+    "application_timing": "Spring treatment, follow-up 2 weeks later"
+  },
+  {
+    "id": "P09",
+    "disease": "Leaf Scorch",
+    "disease_ar": "احتراق الأوراق",
+    "severity_range": [1, 4],
+    "protocol": "Leaf scorch is typically abiotic (heat + drought stress). Increase irrigation frequency during heatwaves (>40\u00b0C). Apply kaolin clay particle film (5% suspension) to reflect solar radiation. Mulch the root zone with 10 cm of organic material. For Xylella-related scorch, quarantine measures apply \u2014 contact CRDA immediately.",
+    "protocol_ar": "\u0627\u062d\u062a\u0631\u0627\u0642 \u0627\u0644\u0623\u0648\u0631\u0627\u0642 \u0639\u0627\u062f\u0629 \u063a\u064a\u0631 \u062d\u064a\u0648\u064a (\u062d\u0631\u0627\u0631\u0629 + \u062c\u0641\u0627\u0641). \u0632\u062f \u062a\u0648\u0627\u062a\u0631 \u0627\u0644\u0631\u064a \u0623\u062b\u0646\u0627\u0621 \u0645\u0648\u062c\u0627\u062a \u0627\u0644\u062d\u0631. \u0636\u0639 \u0637\u0628\u0642\u0629 \u0643\u0627\u0648\u0644\u064a\u0646 5% \u0644\u0639\u0643\u0633 \u0623\u0634\u0639\u0629 \u0627\u0644\u0634\u0645\u0633. \u0636\u0639 10 \u0633\u0645 \u0645\u0646 \u0627\u0644\u0645\u0647\u0627\u062f \u0627\u0644\u0639\u0636\u0648\u064a. \u0641\u064a \u062d\u0627\u0644\u0629 Xylella\u060c \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0645\u0646\u062f\u0648\u0628\u064a\u0629 \u0641\u0648\u0631\u0627\u064b.",
+    "preventive_measures": "Install drip irrigation. Use reflective mulch. Monitor soil moisture with tensiometers.",
+    "chemical_agents": [
+      "Kaolin clay (Surround WP)",
+      "Organic mulch"
+    ],
+    "application_timing": "June\u2013August (heat season)"
+  },
+  {
+    "id": "P10",
+    "disease": "Leaf Scorch",
+    "disease_ar": "احتراق الأوراق",
+    "severity_range": [1, 2],
+    "protocol": "Mild leaf scorch often resolves with adequate watering. Provide 50\u201370 L/tree/week during peak summer. Foliar spray with calcium chloride at 0.5% to strengthen cell walls. Avoid nitrogen fertilization during heat stress periods.",
+    "protocol_ar": "\u0627\u062d\u062a\u0631\u0627\u0642 \u0627\u0644\u0623\u0648\u0631\u0627\u0642 \u0627\u0644\u062e\u0641\u064a\u0641 \u064a\u062a\u062d\u0633\u0646 \u0639\u0627\u062f\u0629 \u0645\u0639 \u0627\u0644\u0631\u064a \u0627\u0644\u0643\u0627\u0641\u064a. \u0648\u0641\u0631 50-70 \u0644\u062a\u0631/\u0634\u062c\u0631\u0629/\u0623\u0633\u0628\u0648\u0639 \u0641\u064a \u0630\u0631\u0648\u0629 \u0627\u0644\u0635\u064a\u0641. \u0631\u0634 \u0648\u0631\u0642\u064a \u0628\u0643\u0644\u0648\u0631\u064a\u062f \u0627\u0644\u0643\u0627\u0644\u0633\u064a\u0648\u0645 0.5% \u0644\u062a\u0642\u0648\u064a\u0629 \u062c\u062f\u0631\u0627\u0646 \u0627\u0644\u062e\u0644\u0627\u064a\u0627.",
+    "preventive_measures": "Shade young trees. Whitewash trunks to prevent sunburn.",
+    "chemical_agents": [
+      "Calcium chloride",
+      "Kaolin clay"
+    ],
+    "application_timing": "June\u2013August as needed"
+  },
+  {
+    "id": "P11",
+    "disease": "Verticillium Wilt",
+    "disease_ar": "الذبول الفرتيسيليومي",
+    "severity_range": [3, 4],
+    "protocol": "Critical Verticillium cases may require soil solarization in summer: cover moist soil with clear plastic for 6\u20138 weeks. Apply calcium cyanamide at 500 kg/ha before solarization. Consider grafting on resistant rootstock (Oblonga) for replanting.",
+    "protocol_ar": "\u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0630\u0628\u0648\u0644 \u0627\u0644\u062d\u0631\u062c\u0629 \u0642\u062f \u062a\u062d\u062a\u0627\u062c \u062a\u0634\u0645\u064a\u0633 \u0627\u0644\u062a\u0631\u0628\u0629 \u0641\u064a \u0627\u0644\u0635\u064a\u0641: \u063a\u0637 \u0627\u0644\u062a\u0631\u0628\u0629 \u0627\u0644\u0631\u0637\u0628\u0629 \u0628\u0627\u0644\u0628\u0644\u0627\u0633\u062a\u064a\u0643 \u0627\u0644\u0634\u0641\u0627\u0641 \u0644\u0645\u062f\u0629 6-8 \u0623\u0633\u0627\u0628\u064a\u0639. \u0636\u0639 \u0633\u064a\u0627\u0646\u0627\u0645\u064a\u062f \u0627\u0644\u0643\u0627\u0644\u0633\u064a\u0648\u0645 500 \u0643\u063a/\u0647\u0643\u062a\u0627\u0631. \u0641\u0643\u0631 \u0641\u064a \u0627\u0644\u062a\u0637\u0639\u064a\u0645 \u0639\u0644\u0649 \u0623\u0635\u0644 \u0645\u0642\u0627\u0648\u0645.",
+    "preventive_measures": "Soil testing before planting. Avoid contaminated irrigation water.",
+    "chemical_agents": [
+      "Calcium cyanamide",
+      "Trichoderma spp."
+    ],
+    "application_timing": "July\u2013August (solarization)"
+  },
+  {
+    "id": "P12",
+    "disease": "Olive Knot",
+    "disease_ar": "سل الزيتون",
+    "severity_range": [1, 2],
+    "protocol": "For minor knot infections with fewer than 5 galls per tree, simple excision and copper wound paint is sufficient. Monitor monthly and remove new galls promptly. Ensure pruning tools are dipped in 70% ethanol between trees.",
+    "protocol_ar": "\u0641\u064a \u0627\u0644\u0625\u0635\u0627\u0628\u0627\u062a \u0627\u0644\u062e\u0641\u064a\u0641\u0629 \u0628\u0623\u0642\u0644 \u0645\u0646 5 \u0639\u0642\u062f \u0644\u0643\u0644 \u0634\u062c\u0631\u0629\u060c \u0627\u0644\u0642\u0635 \u0627\u0644\u0628\u0633\u064a\u0637 \u0648\u062f\u0647\u0627\u0646 \u0627\u0644\u062c\u0631\u0648\u062d \u0628\u0627\u0644\u0646\u062d\u0627\u0633 \u064a\u0643\u0641\u064a. \u0631\u0627\u0642\u0628 \u0634\u0647\u0631\u064a\u0627\u064b \u0648\u0623\u0632\u0644 \u0627\u0644\u0639\u0642\u062f \u0627\u0644\u062c\u062f\u064a\u062f\u0629 \u0641\u0648\u0631\u0627\u064b.",
+    "preventive_measures": "Train workers in hygienic pruning practices.",
+    "chemical_agents": [
+      "Copper wound paint",
+      "Ethanol 70%"
+    ],
+    "application_timing": "Year-round as needed"
+  },
+  {
+    "id": "P13",
+    "disease": "Peacock Spot",
+    "disease_ar": "عين الطاووس",
+    "severity_range": [3, 4],
+    "protocol": "Severe peacock spot causing >30% defoliation requires systemic fungicide: apply dodine (Melprex) at 1.5 g/L or difenoconazole at 0.5 ml/L. Combine with foliar nutrition (zinc sulfate 0.3% + urea 1%) to accelerate canopy recovery.",
+    "protocol_ar": "\u0639\u064a\u0646 \u0627\u0644\u0637\u0627\u0648\u0648\u0633 \u0627\u0644\u0634\u062f\u064a\u062f\u0629 \u0645\u0639 \u062a\u0633\u0627\u0642\u0637 \u0623\u0648\u0631\u0627\u0642 \u0623\u0643\u062b\u0631 \u0645\u0646 30% \u062a\u062d\u062a\u0627\u062c \u0645\u0628\u064a\u062f \u0641\u0637\u0631\u064a \u062c\u0647\u0627\u0632\u064a: \u0636\u0639 \u062f\u0648\u062f\u064a\u0646 1.5 \u063a/\u0644 \u0623\u0648 \u062f\u064a\u0641\u064a\u0646\u0648\u0643\u0648\u0646\u0627\u0632\u0648\u0644 0.5 \u0645\u0644/\u0644. \u0627\u062f\u0645\u062c\u0647 \u0645\u0639 \u062a\u063a\u0630\u064a\u0629 \u0648\u0631\u0642\u064a\u0629.",
+    "preventive_measures": "Increase canopy airflow. Avoid overhead irrigation.",
+    "chemical_agents": [
+      "Dodine",
+      "Difenoconazole",
+      "Zinc sulfate"
+    ],
+    "application_timing": "October (curative) and February (preventive)"
+  },
+  {
+    "id": "P14",
+    "disease": "Healthy",
+    "disease_ar": "سليم",
+    "severity_range": [1, 1],
+    "protocol": "No disease detected. Maintain current orchard management practices. Recommended: balanced annual fertilization (N-P-K at 1-0.5-1.5 kg/tree), regular pruning for light penetration, and pest monitoring traps.",
+    "protocol_ar": "\u0644\u0645 \u064a\u062a\u0645 \u0627\u0643\u062a\u0634\u0627\u0641 \u0645\u0631\u0636. \u062d\u0627\u0641\u0638 \u0639\u0644\u0649 \u0645\u0645\u0627\u0631\u0633\u0627\u062a \u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u062d\u0627\u0644\u064a\u0629. \u0646\u0646\u0635\u062d: \u062a\u0633\u0645\u064a\u062f \u0633\u0646\u0648\u064a \u0645\u062a\u0648\u0627\u0632\u0646\u060c \u062a\u0642\u0644\u064a\u0645 \u0645\u0646\u062a\u0638\u0645 \u0644\u0646\u0641\u0627\u0630 \u0627\u0644\u0636\u0648\u0621\u060c \u0648\u0645\u0635\u0627\u0626\u062f \u0645\u0631\u0627\u0642\u0628\u0629 \u0627\u0644\u0622\u0641\u0627\u062a.",
+    "preventive_measures": "Continue regular monitoring. Keep soil organic matter >2%. Maintain biodiversity in orchard (cover crops, hedgerows).",
+    "chemical_agents": [],
+    "application_timing": "Follow seasonal calendar"
+  },
+  {
+    "id": "P15",
+    "disease": "Verticillium Wilt",
+    "disease_ar": "الذبول الفرتيسيليومي",
+    "severity_range": [2, 3],
+    "protocol": "Moderate Verticillium: Apply fosetyl-aluminum foliar spray at 2.5 g/L every 3 weeks during active growth. Enhance tree vigor with organic matter amendments (10 kg/tree compost annually). Reduce fruit load by 30% to decrease tree stress.",
+    "protocol_ar": "\u0630\u0628\u0648\u0644 \u0645\u062a\u0648\u0633\u0637: \u0631\u0634 \u0641\u0648\u0633\u064a\u062a\u064a\u0644 \u0627\u0644\u0623\u0644\u0645\u0646\u064a\u0648\u0645 2.5 \u063a/\u0644 \u0643\u0644 3 \u0623\u0633\u0627\u0628\u064a\u0639 \u0623\u062b\u0646\u0627\u0621 \u0627\u0644\u0646\u0645\u0648 \u0627\u0644\u0646\u0634\u0637. \u0639\u0632\u0632 \u0642\u0648\u0629 \u0627\u0644\u0634\u062c\u0631\u0629 \u0628\u0627\u0644\u0633\u0645\u0627\u062f \u0627\u0644\u0639\u0636\u0648\u064a 10 \u0643\u063a/\u0634\u062c\u0631\u0629 \u0633\u0646\u0648\u064a\u0627\u064b.",
+    "preventive_measures": "Avoid soil compaction. Use cover crops (grasses) to suppress Verticillium in soil.",
+    "chemical_agents": [
+      "Fosetyl-aluminum",
+      "Compost"
+    ],
+    "application_timing": "March\u2013June (active growth period)"
+  },
+  {
+    "id": "P16",
+    "disease": "Sooty Mold",
+    "disease_ar": "العفن الأسود",
+    "severity_range": [1, 2],
+    "protocol": "Mild sooty mold: identify and monitor the insect source. Place yellow sticky traps to assess whitefly population. Apply neem oil at 1% as a combined insecticide and mold inhibitor. Spray potassium bicarbonate at 0.5% to inhibit fungal growth.",
+    "protocol_ar": "\u0639\u0641\u0646 \u0623\u0633\u0648\u062f \u062e\u0641\u064a\u0641: \u062d\u062f\u062f \u0648\u0631\u0627\u0642\u0628 \u0645\u0635\u062f\u0631 \u0627\u0644\u062d\u0634\u0631\u0627\u062a. \u0636\u0639 \u0645\u0635\u0627\u0626\u062f \u0644\u0627\u0635\u0642\u0629 \u0635\u0641\u0631\u0627\u0621. \u0636\u0639 \u0632\u064a\u062a \u0627\u0644\u0646\u064a\u0645 1% \u0643\u0645\u0628\u064a\u062f \u062d\u0634\u0631\u064a \u0648\u0645\u0627\u0646\u0639 \u0644\u0644\u0639\u0641\u0646. \u0631\u0634 \u0628\u064a\u0643\u0631\u0628\u0648\u0646\u0627\u062a \u0627\u0644\u0628\u0648\u062a\u0627\u0633\u064a\u0648\u0645 0.5%.",
+    "preventive_measures": "Encourage beneficial insects. Avoid broad-spectrum insecticides that kill natural enemies.",
+    "chemical_agents": [
+      "Neem oil",
+      "Potassium bicarbonate"
+    ],
+    "application_timing": "Spring\u2013Summer monitoring and treatment"
+  },
+  {
+    "id": "P17",
+    "disease": "Olive Knot",
+    "disease_ar": "سل الزيتون",
+    "severity_range": [2, 3],
+    "protocol": "Moderate olive knot: combine surgical removal with systemic resistance inducers. Apply acibenzolar-S-methyl (Bion) at 0.02 g/L to trigger systemic acquired resistance. Follow with copper spray 2 weeks later. Repeat monthly during wet season.",
+    "protocol_ar": "\u0633\u0644 \u0645\u062a\u0648\u0633\u0637: \u0627\u062f\u0645\u062c \u0627\u0644\u0625\u0632\u0627\u0644\u0629 \u0627\u0644\u062c\u0631\u0627\u062d\u064a\u0629 \u0645\u0639 \u0645\u062d\u0641\u0632\u0627\u062a \u0627\u0644\u0645\u0642\u0627\u0648\u0645\u0629 \u0627\u0644\u062c\u0647\u0627\u0632\u064a\u0629. \u0636\u0639 \u0623\u0633\u064a\u0628\u0646\u0632\u0648\u0644\u0627\u0631-\u0625\u0633-\u0645\u064a\u062b\u064a\u0644 0.02 \u063a/\u0644 \u0644\u062a\u062d\u0641\u064a\u0632 \u0627\u0644\u0645\u0642\u0627\u0648\u0645\u0629 \u0627\u0644\u0645\u0643\u062a\u0633\u0628\u0629. \u0627\u062a\u0628\u0639\u0647 \u0628\u0631\u0634 \u0646\u062d\u0627\u0633\u064a \u0628\u0639\u062f \u0623\u0633\u0628\u0648\u0639\u064a\u0646.",
+    "preventive_measures": "Protect wounds from rain exposure. Apply wound sealant after pruning.",
+    "chemical_agents": [
+      "Acibenzolar-S-methyl",
+      "Copper sulfate"
+    ],
+    "application_timing": "Autumn wet season start"
+  },
+  {
+    "id": "P18",
+    "disease": "Leaf Scorch",
+    "disease_ar": "احتراق الأوراق",
+    "severity_range": [3, 4],
+    "protocol": "Severe scorch with >50% canopy damage: implement emergency irrigation protocol (100 L/tree/week). Apply anti-transpirant spray (di-1-p-menthene) to reduce water loss. Install temporary shade cloth (30% shade). If Xylella fastidiosa is suspected, collect samples and report to phytosanitary authorities immediately.",
+    "protocol_ar": "\u0627\u062d\u062a\u0631\u0627\u0642 \u0634\u062f\u064a\u062f \u0645\u0639 \u0623\u0643\u062b\u0631 \u0645\u0646 50% \u0636\u0631\u0631: \u0637\u0628\u0642 \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0631\u064a \u0637\u0627\u0631\u0626 (100 \u0644\u062a\u0631/\u0634\u062c\u0631\u0629/\u0623\u0633\u0628\u0648\u0639). \u0636\u0639 \u0631\u0630\u0627\u0630 \u0645\u0636\u0627\u062f \u0644\u0644\u0646\u062a\u062d. \u0631\u0643\u0628 \u0642\u0645\u0627\u0634 \u062a\u0638\u0644\u064a\u0644 \u0645\u0624\u0642\u062a. \u0625\u0630\u0627 \u064a\u064f\u0634\u062a\u0628\u0647 \u0628\u0640 Xylella\u060c \u0627\u062c\u0645\u0639 \u0639\u064a\u0646\u0627\u062a \u0648\u0623\u0628\u0644\u063a \u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0641\u0648\u0631\u0627\u064b.",
+    "preventive_measures": "Climate-adaptive variety selection. Install weather station for early warning.",
+    "chemical_agents": [
+      "Anti-transpirant (di-1-p-menthene)",
+      "Calcium chloride"
+    ],
+    "application_timing": "Emergency response during heatwaves"
+  },
+  {
+    "id": "P19",
+    "disease": "Peacock Spot",
+    "disease_ar": "عين الطاووس",
+    "severity_range": [2, 3],
+    "protocol": "Moderate peacock spot: apply copper hydroxide at 2 g/L combined with mancozeb at 2.5 g/L for enhanced efficacy. Time application to coincide with conidial release periods (typically after first autumn rains). Ensure thorough coverage of lower canopy.",
+    "protocol_ar": "\u0639\u064a\u0646 \u0637\u0627\u0648\u0648\u0633 \u0645\u062a\u0648\u0633\u0637\u0629: \u0636\u0639 \u0647\u064a\u062f\u0631\u0648\u0643\u0633\u064a\u062f \u0627\u0644\u0646\u062d\u0627\u0633 2 \u063a/\u0644 \u0645\u0639 \u0645\u0627\u0646\u0643\u0648\u0632\u064a\u0628 2.5 \u063a/\u0644 \u0644\u0641\u0639\u0627\u0644\u064a\u0629 \u0623\u0641\u0636\u0644. \u0648\u0642\u0651\u062a \u0627\u0644\u0645\u0639\u0627\u0645\u0644\u0629 \u0645\u0639 \u0641\u062a\u0631\u0627\u062a \u0625\u0637\u0644\u0627\u0642 \u0627\u0644\u0623\u0628\u0648\u0627\u063a. \u062a\u0623\u0643\u062f \u0645\u0646 \u062a\u063a\u0637\u064a\u0629 \u0627\u0644\u062c\u0632\u0621 \u0627\u0644\u0633\u0641\u0644\u064a \u0645\u0646 \u0627\u0644\u0645\u062c\u0645\u0648\u0639 \u0627\u0644\u062e\u0636\u0631\u064a.",
+    "preventive_measures": "Remove lower branches touching ground. Collect and destroy fallen leaves.",
+    "chemical_agents": [
+      "Copper hydroxide",
+      "Mancozeb"
+    ],
+    "application_timing": "After first autumn rains (October\u2013November)"
+  },
+  {
+    "id": "P20",
+    "disease": "Verticillium Wilt",
+    "disease_ar": "الذبول الفرتيسيليومي",
+    "severity_range": [1, 1],
+    "protocol": "Very mild Verticillium symptoms (slight leaf yellowing): monitor closely without chemical intervention. Improve tree nutrition with balanced fertilization. Apply humic acid at 5 L/ha to stimulate root growth and soil biology. Re-evaluate in 4 weeks.",
+    "protocol_ar": "\u0623\u0639\u0631\u0627\u0636 \u0630\u0628\u0648\u0644 \u062e\u0641\u064a\u0641\u0629 \u062c\u062f\u0627\u064b: \u0631\u0627\u0642\u0628 \u0639\u0646 \u0643\u062b\u0628 \u062f\u0648\u0646 \u062a\u062f\u062e\u0644 \u0643\u064a\u0645\u064a\u0627\u0626\u064a. \u062d\u0633\u0651\u0646 \u062a\u063a\u0630\u064a\u0629 \u0627\u0644\u0634\u062c\u0631\u0629 \u0628\u0627\u0644\u062a\u0633\u0645\u064a\u062f \u0627\u0644\u0645\u062a\u0648\u0627\u0632\u0646. \u0636\u0639 \u062d\u0645\u0636 \u0627\u0644\u0647\u064a\u0648\u0645\u064a\u0643 5 \u0644/\u0647\u0643\u062a\u0627\u0631 \u0644\u062a\u062d\u0641\u064a\u0632 \u0646\u0645\u0648 \u0627\u0644\u062c\u0630\u0648\u0631.",
+    "preventive_measures": "Soil health management. Avoid monoculture stress.",
+    "chemical_agents": [
+      "Humic acid"
+    ],
+    "application_timing": "Spring (March\u2013April)"
+  },
+  {
+    "id": "P21",
+    "disease": "Sooty Mold",
+    "disease_ar": "العفن الأسود",
+    "severity_range": [2, 3],
+    "protocol": "Moderate sooty mold with visible yield impact: apply chlorpyrifos alternative (acetamiprid at 0.25 g/L) for scale control. Follow 7 days later with sodium bicarbonate wash (3%) to dissolve soot. Apply seaweed-based biostimulant for canopy recovery.",
+    "protocol_ar": "\u0639\u0641\u0646 \u0623\u0633\u0648\u062f \u0645\u062a\u0648\u0633\u0637 \u0645\u0639 \u062a\u0623\u062b\u064a\u0631 \u0645\u0631\u0626\u064a \u0639\u0644\u0649 \u0627\u0644\u0625\u0646\u062a\u0627\u062c: \u0636\u0639 \u0623\u0633\u064a\u062a\u0627\u0645\u064a\u0628\u0631\u064a\u062f 0.25 \u063a/\u0644 \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u062d\u0634\u0631\u0627\u062a \u0627\u0644\u0642\u0634\u0631\u064a\u0629. \u0627\u062a\u0628\u0639\u0647 \u0628\u063a\u0633\u0644 \u0628\u064a\u0643\u0631\u0628\u0648\u0646\u0627\u062a \u0627\u0644\u0635\u0648\u062f\u064a\u0648\u0645 3%. \u0636\u0639 \u0645\u062d\u0641\u0632 \u0628\u064a\u0648\u0644\u0648\u062c\u064a \u0645\u0646 \u0627\u0644\u0623\u0639\u0634\u0627\u0628 \u0627\u0644\u0628\u062d\u0631\u064a\u0629.",
+    "preventive_measures": "Regular monitoring with magnifying glass for early scale detection.",
+    "chemical_agents": [
+      "Acetamiprid",
+      "Sodium bicarbonate"
+    ],
+    "application_timing": "Late spring (April\u2013May)"
+  },
+  {
+    "id": "P22",
+    "disease": "Olive Knot",
+    "disease_ar": "سل الزيتون",
+    "severity_range": [1, 4],
+    "protocol": "Integrated knot management: combine cultural (pruning hygiene, timing), biological (Pseudomonas fluorescens A506 at 10^8 CFU/mL), and chemical (copper at 2 g/L) approaches. Prioritize prevention: protect pruning wounds with copper paste within 24 hours.",
+    "protocol_ar": "\u0625\u062f\u0627\u0631\u0629 \u0645\u062a\u0643\u0627\u0645\u0644\u0629 \u0644\u0644\u0633\u0644: \u0627\u062f\u0645\u062c \u0627\u0644\u0623\u0633\u0627\u0644\u064a\u0628 \u0627\u0644\u0632\u0631\u0627\u0639\u064a\u0629 (\u0646\u0638\u0627\u0641\u0629 \u0627\u0644\u062a\u0642\u0644\u064a\u0645) \u0648\u0627\u0644\u0628\u064a\u0648\u0644\u0648\u062c\u064a\u0629 (Pseudomonas fluorescens) \u0648\u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 (\u0627\u0644\u0646\u062d\u0627\u0633 2 \u063a/\u0644). \u0623\u0639\u0637 \u0627\u0644\u0623\u0648\u0644\u0648\u064a\u0629 \u0644\u0644\u0648\u0642\u0627\u064a\u0629: \u0627\u062d\u0645 \u062c\u0631\u0648\u062d \u0627\u0644\u062a\u0642\u0644\u064a\u0645 \u0628\u0645\u0639\u062c\u0648\u0646 \u0646\u062d\u0627\u0633\u064a \u062e\u0644\u0627\u0644 24 \u0633\u0627\u0639\u0629.",
+    "preventive_measures": "Train all workers on disease identification and hygienic practices.",
+    "chemical_agents": [
+      "Copper paste",
+      "Pseudomonas fluorescens A506"
+    ],
+    "application_timing": "Throughout pruning season"
+  },
+  {
+    "id": "P23",
+    "disease": "Leaf Scorch",
+    "disease_ar": "احتراق الأوراق",
+    "severity_range": [2, 3],
+    "protocol": "Moderate scorch: establish deficit irrigation scheduling using FAO Penman-Monteith ET\u2080 calculations. Target 60% ET\u2080 replacement during mild stress, 100% during extreme heat. Apply kaolin at 5% before heatwave events. Supplement with foliar potassium silicate (0.3%) for stress tolerance.",
+    "protocol_ar": "\u0627\u062d\u062a\u0631\u0627\u0642 \u0645\u062a\u0648\u0633\u0637: \u0636\u0639 \u062c\u062f\u0648\u0644 \u0631\u064a \u0639\u062c\u0632\u064a \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u062d\u0633\u0627\u0628\u0627\u062a \u0627\u0644\u062a\u0628\u062e\u0631-\u0646\u062a\u062d. \u0636\u0639 \u0627\u0644\u0643\u0627\u0648\u0644\u064a\u0646 5% \u0642\u0628\u0644 \u0645\u0648\u062c\u0627\u062a \u0627\u0644\u062d\u0631. \u0627\u062f\u0639\u0645 \u0628\u0633\u064a\u0644\u064a\u0643\u0627\u062a \u0627\u0644\u0628\u0648\u062a\u0627\u0633\u064a\u0648\u0645 \u0627\u0644\u0648\u0631\u0642\u064a\u0629 0.3% \u0644\u062a\u062d\u0645\u0644 \u0627\u0644\u0625\u062c\u0647\u0627\u062f.",
+    "preventive_measures": "Install soil moisture sensors. Plan shade tree integration for young orchards.",
+    "chemical_agents": [
+      "Kaolin clay",
+      "Potassium silicate"
+    ],
+    "application_timing": "Pre-heatwave application (check weather forecasts)"
+  },
+  {
+    "id": "P24",
+    "disease": "Healthy",
+    "disease_ar": "سليم",
+    "severity_range": [1, 1],
+    "protocol": "Healthy tree maintenance calendar: January \u2014 dormant pruning; February \u2014 copper preventive spray; March \u2014 balanced NPK fertilization; April\u2013May \u2014 pest monitoring traps; June\u2013August \u2014 irrigation management + kaolin if needed; September \u2014 leaf disease monitoring; October \u2014 pre-harvest copper spray; November\u2013December \u2014 harvest and post-harvest care.",
+    "protocol_ar": "\u062a\u0642\u0648\u064a\u0645 \u0635\u064a\u0627\u0646\u0629 \u0627\u0644\u0634\u062c\u0631\u0629 \u0627\u0644\u0633\u0644\u064a\u0645\u0629: \u062c\u0627\u0646\u0641\u064a \u2014 \u062a\u0642\u0644\u064a\u0645 \u0627\u0644\u0633\u0643\u0648\u0646\u061b \u0641\u064a\u0641\u0631\u064a \u2014 \u0631\u0634 \u0646\u062d\u0627\u0633\u064a \u0648\u0642\u0627\u0626\u064a\u061b \u0645\u0627\u0631\u0633 \u2014 \u062a\u0633\u0645\u064a\u062f NPK\u061b \u0623\u0641\u0631\u064a\u0644-\u0645\u0627\u064a \u2014 \u0645\u0635\u0627\u0626\u062f \u0645\u0631\u0627\u0642\u0628\u0629\u061b \u062c\u0648\u0627\u0646-\u0623\u0648\u062a \u2014 \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0631\u064a\u061b \u0633\u0628\u062a\u0645\u0628\u0631 \u2014 \u0645\u0631\u0627\u0642\u0628\u0629 \u0623\u0645\u0631\u0627\u0636 \u0627\u0644\u0623\u0648\u0631\u0627\u0642\u061b \u0623\u0643\u062a\u0648\u0628\u0631 \u2014 \u0631\u0634 \u0642\u0628\u0644 \u0627\u0644\u062c\u0646\u064a.",
+    "preventive_measures": "Follow integrated pest management (IPM) calendar. Keep records of all treatments. Soil test annually.",
+    "chemical_agents": [],
+    "application_timing": "Year-round calendar as described"
+  }
+]

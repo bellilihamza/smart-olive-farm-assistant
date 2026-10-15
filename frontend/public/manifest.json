@@ -1,0 +1,21 @@
+{
+  "name": "Smart Olive Farm Assistant",
+  "short_name": "Olive AI",
+  "description": "AI-powered diagnosis for Tunisian olive farmers",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f7f2",
+  "theme_color": "#6b9e6b",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

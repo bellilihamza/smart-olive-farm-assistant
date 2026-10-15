@@ -1,0 +1,112 @@
+{
+  "nav": {
+    "title": "Smart Olive Assistant",
+    "subtitle": "Expert Oléricole",
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "products": "Produits",
+    "blog": "Blog",
+    "contact": "Contact",
+    "dashboard": "Tableau de Bord",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "assistant": "Assistant IA"
+  },
+  "hero": {
+    "badge": "Projet PFA 2026 · CRDA Tunisie",
+    "title_1": "Expert",
+    "title_2": "Olivier",
+    "subtitle_1": "Smart Olive Farm Assistant",
+    "description": "Plateforme tunisienne d'intelligence artificielle pour le diagnostic instantané des maladies de l'olivier par photo.",
+    "diagnose_btn": "Diagnostic Gratuit",
+    "dashboard_btn": "Tableau CRDA",
+    "tag_1": "YOLOv8 IA",
+    "tag_2": "94% Précision",
+    "tag_3": "Conforme INPDP",
+    "tag_4": "Gratuit pour les agriculteurs"
+  },
+  "stats": {
+    "accuracy": "Précision",
+    "diseases": "Maladies Détectées",
+    "regions": "Gouvernorats",
+    "time": "Temps d'Analyse"
+  },
+  "about": {
+    "badge": "À propos de nous",
+    "title": "Un projet national pour protéger les oliviers de Tunisie",
+    "desc_1": "Smart Olive Assistant est une plateforme développée par des étudiants tunisiens en partenariat avec le CRDA.",
+    "desc_2": "Nous utilisons les modèles IA de pointe (YOLOv8, U-Net, ResNet-50, LSTM) et un chatbot Mistral AI.",
+    "feature_1": "Données anonymisées (INPDP)",
+    "feature_2": "Fonctionne avec connexion limitée",
+    "feature_3": "Interface multilingue intuitive"
+  },
+  "services": {
+    "badge": "Nos Services",
+    "title": "Solutions complètes pour agriculteurs et inspecteurs",
+    "subtitle": "Du diagnostic individuel à la surveillance nationale.",
+    "s1_title": "Diagnostic par Photo",
+    "s1_desc": "Téléchargez une photo de feuille d'olivier et obtenez un diagnostic précis en moins de 5 secondes.",
+    "s2_title": "Tableau de Bord National",
+    "s2_desc": "Carte épidémiologique pour suivre les foyers de maladies en temps réel dans les 24 gouvernorats.",
+    "s3_title": "Assistant Agricole IA",
+    "s3_desc": "Posez toutes vos questions sur la culture de l'olivier à notre chatbot alimenté par Mistral AI.",
+    "s4_title": "API pour Chercheurs",
+    "s4_desc": "Interface API ouverte permettant aux laboratoires de s'intégrer avec nos modèles entraînés."
+  },
+  "products": {
+    "badge": "Produits",
+    "title": "Un écosystème complet",
+    "p1_title": "Olive Scan App",
+    "p1_desc": "Application mobile de diagnostic — bientôt sur iOS et Android",
+    "p2_title": "CRDA Dashboard Pro",
+    "p2_desc": "Tableau de surveillance avancé avec rapports PDF et export de données",
+    "p3_title": "Olive AI API",
+    "p3_desc": "API pour laboratoires et centres de recherche",
+    "p4_title": "Farm Analytics",
+    "p4_desc": "Analyses avancées et rapports périodiques de santé de la ferme"
+  },
+  "blog": {
+    "badge": "Blog",
+    "title": "Articles et Conseils Agricoles",
+    "b1_title": "L'Œil de Paon: La maladie la plus dangereuse de l'olivier en Tunisie",
+    "b2_title": "Comment YOLOv8 détecte les maladies de l'olivier ?",
+    "b3_title": "10 conseils pour maintenir une oliveraie en santé pendant les pluies"
+  },
+  "contact": {
+    "badge": "Contactez-nous",
+    "title": "Nous sommes là pour vous aider",
+    "name": "Nom complet",
+    "email": "Email",
+    "subject": "Sujet",
+    "message": "Message",
+    "send": "Envoyer le message"
+  },
+  "chat": {
+    "title": "Assistant Agricole",
+    "subtitle": "Alimenté par Mistral AI & RAG",
+    "placeholder": "Posez votre question ici...",
+    "send": "Envoyer",
+    "welcome": "Bonjour ! Je suis votre assistant agricole IA. Comment puis-je vous aider aujourd'hui ?"
+  },
+  "diagnose": {
+    "title": "Diagnostic des maladies",
+    "subtitle": "par Intelligence Artificielle",
+    "desc": "Téléchargez une photo pour obtenir un diagnostic instantané et un plan de traitement."
+  },
+  "farmer_tools": {
+    "weather": "Météo Agricole",
+    "weather_desc": "Conditions idéales pour le traitement",
+    "humidity": "Humidité",
+    "wind": "Vent",
+    "alerts": "Alertes du CRDA",
+    "alerts_desc": "Notifications officielles",
+    "alert_1": "Forte propagation de l'Œil de Paon détectée. Pensez au traitement préventif.",
+    "calendar": "Calendrier Agricole",
+    "calendar_desc": "Tâches recommandées du mois",
+    "task_1": "Taille de rajeunissement",
+    "task_2": "Traitement préventif au cuivre",
+    "task_3": "Désherbage de l'oliveraie"
+  }
+}
+

@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    container_name: smart_olive_db
+    environment:
+      POSTGRES_USER: olive
+      POSTGRES_PASSWORD: olive_secret
+      POSTGRES_DB: olive_farm
+    ports:
+      - "5432:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  api:
+    build: 
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: smart_olive_api
+    depends_on:
+      - db
+    environment:
+      - DATABASE_URL=postgresql+asyncpg://olive:olive_secret@db:5432/olive_farm
+      - MISTRAL_API_KEY=${MISTRAL_API_KEY}
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./weights:/backend/weights
+    restart: unless-stopped
+
+  web:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: smart_olive_web
+    depends_on:
+      - api
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000/api/v1
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+
+volumes:
+  db_data:
